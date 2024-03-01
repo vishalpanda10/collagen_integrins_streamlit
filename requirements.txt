@@ -1,0 +1,5 @@
+pyreadr
+rpy2
+plotly
+numpy
+streamlit
