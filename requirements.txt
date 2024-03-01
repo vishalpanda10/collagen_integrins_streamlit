@@ -1,5 +1,5 @@
 pyreadr
-rpy2
+rpy2==3.5.1
 plotly
 numpy
 streamlit
