@@ -3,3 +3,4 @@ rpy2==3.5.1
 plotly
 numpy
 streamlit
+R==4.2.3
